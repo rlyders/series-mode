@@ -3,6 +3,7 @@
         <div class="d-flex justify-content-between">
             <span class="text-muted">
                 By <a href="http://RichardLyders.com">Richard Lyders</a>
+                on <a href="https://github.com/rlyders/series-mode">GitHub</a>
                 with <a href="https://kit.svelte.dev/">SvelteKit</a>.
             </span>
         </div>

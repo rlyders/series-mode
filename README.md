@@ -2,6 +2,8 @@
 
 This web app app finds the value that appears most frequently in a data set (e.g., the mode).
 
+[Live demo site](https://series-mode.s3.amazonaws.com/index.html)
+
 NOTE: The user can click the number buttons using the mouse, touch, keyboard or number pad.
 
 This is a simple app created as a test in Svelte.
